@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jehezkiel Hardwin Tandijaya</h1>
 <h3 align="center">I'm an aspiring software developer currently pursuing a Master of Information Technology degree at Monash University. I have a passion for web and mobile development, and I'm always excited to work on innovative projects that make an impact.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jehezkiel1699&label=Profile%20views&color=0e75b6&style=flat" alt="jehezkiel1699" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jehezkiel1699" alt="jehezkiel1699" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://jehezkiel1699.github.io/portfolio/](https://jehezkiel1699.github.io/portfolio/)
 
 - 📄 Know about my experiences [https://jehezkiel1699.github.io/portfolio/CV.pdf](https://jehezkiel1699.github.io/portfolio/CV.pdf)
